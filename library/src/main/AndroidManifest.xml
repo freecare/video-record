@@ -1,2 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-          package="com.freecare.videorecord.library"/>
+          package="com.freecare.videorecord.library">
+    <application>
+        <activity android:name=".ui.VideoRecordActivity"/>
+    </application>
+</manifest>
